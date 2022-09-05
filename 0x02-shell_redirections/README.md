@@ -9,3 +9,4 @@ output ls results to new file
 10-deleting.js files
 15-counting ocurences with grep
 whatsnext
+17-showing none-occurences with grep
