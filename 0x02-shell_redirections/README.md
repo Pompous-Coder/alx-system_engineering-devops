@@ -4,3 +4,4 @@
 listing last ten lines
 listing first ten lines
 listing third  line
+output ls results to new file
