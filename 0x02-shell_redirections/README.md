@@ -11,3 +11,4 @@ output ls results to new file
 whatsnext
 17-showing none-occurences with grep
 18-matching occurences with grep
+replacing with tr
