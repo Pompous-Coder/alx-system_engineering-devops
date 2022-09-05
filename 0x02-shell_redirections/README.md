@@ -10,3 +10,4 @@ output ls results to new file
 15-counting ocurences with grep
 whatsnext
 17-showing none-occurences with grep
+18-matching occurences with grep
