@@ -13,3 +13,4 @@ whatsnext
 18-matching occurences with grep
 replacing with tr
 delete with tr
+21-reversse output
