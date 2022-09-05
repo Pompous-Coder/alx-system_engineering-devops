@@ -8,3 +8,4 @@ output ls results to new file
 9-duplicate last nine
 10-deleting.js files
 15-counting ocurences with grep
+whatsnext
