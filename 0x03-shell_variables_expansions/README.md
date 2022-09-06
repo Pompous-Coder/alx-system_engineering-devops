@@ -11,3 +11,4 @@ printing hello to current user
 9-division operation on env variables
 10-raising to the power
 11-binarytodecimal
+12-combining alphabets
