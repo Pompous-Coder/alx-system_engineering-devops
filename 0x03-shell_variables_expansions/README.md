@@ -5,3 +5,4 @@ printing hello to current user
 3-counting directories in PATH
 4-printing global variables
 5-printing local variables
+6-creating a new local variable
