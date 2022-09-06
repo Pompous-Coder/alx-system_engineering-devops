@@ -6,3 +6,4 @@ printing hello to current user
 4-printing global variables
 5-printing local variables
 6-creating a new local variable
+7-creating a new global variable
