@@ -10,3 +10,4 @@ printing hello to current user
 8-adding variable and number
 9-division operation on env variables
 10-raising to the power
+11-binarytodecimal
