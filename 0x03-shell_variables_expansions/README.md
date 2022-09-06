@@ -8,3 +8,4 @@ printing hello to current user
 6-creating a new local variable
 7-creating a new global variable
 8-adding variable and number
+9-division operation on env variables
